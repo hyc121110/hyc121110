@@ -40,7 +40,7 @@ const evan = {
         },
         devOps: ["Docker🐳"],
         databases: ["mongo", "MySql"],
-        misc: ["Firebase", "Anaconda", "selenium", "open-cv", "SuiteApp"]
+        misc: ["Firebase", "Anaconda", "Tensorflow"]
     },
     currentProject: "I am currently working as a Software Engineer at Lalamove",
 }
