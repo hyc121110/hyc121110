@@ -1,6 +1,6 @@
 <h1>Hi there 👋 My Name is Evan!   <img src="https://media.giphy.com/media/10GN73YGycPXQk/giphy.gif" width=50></h1>
 
-<p><em>Software Engineer at <a href="https://www.lalamove.com/hongkong/zh/home">Lalamove   </a><img src="https://media.giphy.com/media/HMSLfCl5BsXoQ/giphy.gif" width="30"> 
+<p><em>Software Engineer at <a href="https://www.lalamove.com/hongkong/zh/home">Lalamove </a><img src="https://media.giphy.com/media/HMSLfCl5BsXoQ/giphy.gif" width="60">
 </em></p>
 
 <!--
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width=50> More about me...
+<h3> More about me... <img src="https://media.giphy.com/media/Q94xQWspTUkShljj8P/giphy.gif" width=50> </h3>
 
 
 ```javascript
