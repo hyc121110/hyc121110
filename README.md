@@ -5,7 +5,7 @@
 
 <h4>Check out my website <a href="https://hoyeechan.com/">here</a>!</h4>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-Evan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/ho-yee-chan/)](https://www.https://www.linkedin.com/in/ho-yee-chan/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-Evan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ho-yee-chan/)](https://www.linkedin.com/in/ho-yee-chan/)
 ![GitHub followers](https://img.shields.io/github/followers/hyc121110?label=Follow&style=social)
 
 <!--
