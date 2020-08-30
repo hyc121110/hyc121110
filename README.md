@@ -3,7 +3,7 @@
 <p><em>Software Engineer at <a href="https://www.lalamove.com/hongkong/zh/home">Lalamove </a><img src="https://media.giphy.com/media/HMSLfCl5BsXoQ/giphy.gif" width="60">
 </em></p>
 
-<h4>Check out my website <a href="https://hoyeechan.com/">here</a>!</h4>
+<h4>Check out my website <a href="https://hoyeechan.com/">here</a>! <img src="https://media.giphy.com/media/cuPm4p4pClZVC/giphy.gif" width=50></h4>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Evan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ho-yee-chan/)](https://www.linkedin.com/in/ho-yee-chan/)
 ![GitHub followers](https://img.shields.io/github/followers/hyc121110?label=Follow&style=social)
