@@ -50,7 +50,7 @@ const evan = {
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-226073%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-226585%20Lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -93,14 +93,10 @@ Sunday       49 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Markdown                 12 mins             ██████████████████░░░░░░░   72.56% 
-YAML                     4 mins              ██████░░░░░░░░░░░░░░░░░░░   27.13% 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 🔥 Code Editors: 
-VS Code                  16 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
