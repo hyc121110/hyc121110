@@ -33,12 +33,14 @@ const evan = {
     askMeAbout: ["machine learning", "tech", "pool"],
     technologies: {
         frontEnd: {
+            javascript: ["vue.js"],
             css: ["bootstrap"]
         },
         backEnd: {
-            python: ["flask"]
+            python: ["flask"],
+            java: ["springboot"]
         },
-        devOps: ["Docker🐳"],
+        devOps: ["Docker🐳", "Kubernetes"],
         databases: ["mongo", "MySql"],
         misc: ["Firebase", "Anaconda", "Tensorflow"]
     },
