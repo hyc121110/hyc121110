@@ -116,7 +116,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/hyc121110/hyc121110/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/hyc121110/hyc121110/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
