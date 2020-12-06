@@ -62,9 +62,9 @@ const evan = {
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 34 Public Repositories
+> 📜 34 Public Repositories 
  > 
-> 🔑 10 Private Repositories 
+> 🔑 10 Private Repositories  
 
 **I'm an Early 🐤** 
 
