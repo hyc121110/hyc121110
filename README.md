@@ -58,7 +58,7 @@ const evan = {
 
 > 🏆 61 Contributions in the Year 2020
  > 
-> 📦 263.1 kB Used in Github's Storage 
+> 📦 263.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
