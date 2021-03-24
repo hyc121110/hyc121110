@@ -50,7 +50,7 @@ const evan = {
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-144690%20lines%20of%20code-blue)
 
@@ -95,11 +95,11 @@ Sunday       55 commits     ███████░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   1 hr 7 mins         █████████████████████████   99.62% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38%
+Python                   47 mins             ████████████████████████░   99.47% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.53%
 
 🔥 Editors: 
-VS Code                  1 hr 7 mins         █████████████████████████   100.0%
+VS Code                  48 mins             █████████████████████████   100.0%
 
 ```
 
