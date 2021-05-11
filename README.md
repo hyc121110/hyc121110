@@ -52,13 +52,13 @@ const evan = {
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-145565%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-145576%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 26 Contributions in the Year 2021
  > 
-> 📦 263.5 kB Used in Github's Storage 
+> 📦 263.6 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -95,14 +95,14 @@ Sunday       66 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   14 hrs 29 mins      ████████████████████████░   98.89% 
+Python                   14 hrs 31 mins      ████████████████████████░   98.89% 
 Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.69% 
 Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03% 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  14 hrs 39 mins      █████████████████████████   100.0%
+VS Code                  14 hrs 41 mins      █████████████████████████   100.0%
 
 ```
 
