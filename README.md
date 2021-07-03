@@ -58,7 +58,7 @@ const evan = {
 
 > 🏆 26 Contributions in the Year 2021
  > 
-> 📦 263.5 kB Used in Github's Storage 
+> 📦 263.6 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -119,5 +119,5 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/hyc121110/hyc121110/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/07/2021
+ Last Updated on 03/07/2021
 <!--END_SECTION:waka-->
