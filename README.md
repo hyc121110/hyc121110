@@ -56,13 +56,13 @@ const evan = {
 
 **🐱 My Github Data** 
 
-> 🏆 26 Contributions in the Year 2021
+> 🏆 27 Contributions in the Year 2021
  > 
 > 📦 263.6 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 34 Public Repositories 
+> 📜 35 Public Repositories 
  > 
 > 🔑 11 Private Repositories  
  > 
@@ -95,10 +95,14 @@ Sunday       65 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   32 mins             █████████████████████████   100.0%
+Python                   9 hrs 36 mins       ███████████████████████░░   93.68% 
+Text                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.01% 
+TOML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16% 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   100.0%
+VS Code                  10 hrs 15 mins      █████████████████████████   100.0%
 
 ```
 
@@ -119,5 +123,5 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/hyc121110/hyc121110/master/charts/bar_graph.png) 
 
 
- Last Updated on 10/07/2021
+ Last Updated on 11/07/2021
 <!--END_SECTION:waka-->
