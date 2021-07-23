@@ -50,7 +50,7 @@ const evan = {
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-145576%20lines%20of%20code-blue)
 
@@ -95,10 +95,10 @@ Sunday       65 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   26 mins             █████████████████████████   100.0%
+Python                   1 hr 12 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  26 mins             █████████████████████████   100.0%
+VS Code                  1 hr 12 mins        █████████████████████████   100.0%
 
 ```
 
@@ -119,5 +119,5 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/hyc121110/hyc121110/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/07/2021
+ Last Updated on 23/07/2021
 <!--END_SECTION:waka-->
