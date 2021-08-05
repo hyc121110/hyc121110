@@ -1,6 +1,6 @@
 <h1>Hi there 👋 My Name is Evan!   <img src="https://media.giphy.com/media/10GN73YGycPXQk/giphy.gif" width=50></h1>
 
-<p><em>Software Engineer at <a href="https://www.lalamove.com/hongkong/zh/home">Lalamove </a><img src="https://media.giphy.com/media/HMSLfCl5BsXoQ/giphy.gif" width="60">
+<p><em>ex-Software Engineer at <a href="https://www.lalamove.com/hongkong/zh/home">Lalamove </a><img src="https://media.giphy.com/media/HMSLfCl5BsXoQ/giphy.gif" width="60">
 </em></p>
 
 <h4>Check out my website <a href="https://hoyeechan.com/">here</a>! <img src="https://media.giphy.com/media/cuPm4p4pClZVC/giphy.gif" width=50></h4>
