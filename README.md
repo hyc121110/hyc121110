@@ -95,10 +95,10 @@ Sunday       38 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Python                   2 hrs 11 mins       █████████████████████████   100.0%
+Python                   1 hr 30 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  2 hrs 11 mins       █████████████████████████   100.0%
+VS Code                  1 hr 30 mins        █████████████████████████   100.0%
 
 ```
 
@@ -119,5 +119,5 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/hyc121110/hyc121110/master/charts/bar_graph.png) 
 
 
- Last Updated on 26/11/2021
+ Last Updated on 27/11/2021
 <!--END_SECTION:waka-->
