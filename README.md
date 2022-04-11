@@ -46,7 +46,7 @@ const evan = {
         databases: ["mongo", "MySql"],
         misc: ["Firebase", "Anaconda", "Tensorflow"]
     },
-    currentProject: "I am currently working as a Software Engineer at Lalamove",
+    currentProject: "I am currently working as a Software Engineer at Aviva Canada",
 }
 ```
 
