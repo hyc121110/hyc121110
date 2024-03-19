@@ -43,7 +43,7 @@ const evan = {
             java: ["springboot"]
         },
         devOps: ["Docker🐳", "Kubernetes"],
-        databases: ["mongo", "MySql"],
+        databases: ["mongo", "MySql", "PostgreSQL"],
         misc: ["Firebase", "Anaconda", "Tensorflow"]
     },
     currentProject: "I am currently working as a Software Engineer at Aviva Canada",
