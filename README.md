@@ -52,6 +52,8 @@ const evan = {
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2014%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-362.9%20thousand%20lines%20of%20code-blue)
@@ -116,5 +118,5 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hyc121110/hyc121110/master/assets/bar_graph.png)
 
 
- Last Updated on 15/04/2024 03:32:58 UTC
+ Last Updated on 16/04/2024 01:15:51 UTC
 <!--END_SECTION:waka-->
