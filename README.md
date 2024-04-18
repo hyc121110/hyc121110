@@ -95,10 +95,10 @@ Sunday                   112 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     37 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  37 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -118,5 +118,5 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hyc121110/hyc121110/master/assets/bar_graph.png)
 
 
- Last Updated on 17/04/2024 01:16:09 UTC
+ Last Updated on 18/04/2024 01:15:56 UTC
 <!--END_SECTION:waka-->
