@@ -52,7 +52,7 @@ const evan = {
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -97,10 +97,11 @@ Sunday                   146 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Terraform                15 mins             █████████████████████████   100.00 % 
+Terraform                1 hr 9 mins         ██████████████████████░░░   87.31 % 
+Text                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 19 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -120,5 +121,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hyc121110/hyc121110/master/assets/bar_graph.png)
 
 
- Last Updated on 22/11/2024 01:50:56 UTC
+ Last Updated on 23/11/2024 01:46:46 UTC
 <!--END_SECTION:waka-->
