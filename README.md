@@ -52,7 +52,7 @@ const evan = {
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -97,12 +97,12 @@ Sunday                   160 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-JavaScript               2 hrs 37 mins       ██████████████████░░░░░░░   70.44 % 
-CSS                      1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   29.36 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+JavaScript               2 hrs 16 mins       ███████████████████████░░   92.53 % 
+CSS                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 43 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -122,5 +122,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hyc121110/hyc121110/master/assets/bar_graph.png)
 
 
- Last Updated on 07/04/2025 01:57:07 UTC
+ Last Updated on 08/04/2025 01:54:26 UTC
 <!--END_SECTION:waka-->
