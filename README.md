@@ -62,8 +62,6 @@ const evan = {
 
 > 📦 276.1 kB Used in GitHub's Storage 
  > 
-> 🏆 74 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 39 Public Repositories 
@@ -97,11 +95,11 @@ Sunday                   160 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-JavaScript               22 mins             █████████████████████░░░░   85.36 % 
-CSS                      3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+JavaScript               21 mins             ███████████████████████░░   90.47 % 
+CSS                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
 
 🔥 Editors: 
-VS Code                  25 mins             █████████████████████████   100.00 % 
+VS Code                  24 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -121,5 +119,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hyc121110/hyc121110/master/assets/bar_graph.png)
 
 
- Last Updated on 13/04/2025 03:20:28 UTC
+ Last Updated on 14/04/2025 01:58:54 UTC
 <!--END_SECTION:waka-->
