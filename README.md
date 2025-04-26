@@ -52,7 +52,7 @@ const evan = {
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -61,8 +61,6 @@ const evan = {
 **🐱 My GitHub Data** 
 
 > 📦 276.1 kB Used in GitHub's Storage 
- > 
-> 🏆 74 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -97,10 +95,14 @@ Sunday                   160 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Python                   15 mins             █████████████████████████   100.00 % 
+Python                   4 hrs 4 mins        ██████████████████████░░░   87.07 % 
+Makefile                 31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Docker                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+VS Code                  4 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -120,5 +122,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hyc121110/hyc121110/master/assets/bar_graph.png)
 
 
- Last Updated on 25/04/2025 01:58:15 UTC
+ Last Updated on 26/04/2025 01:53:38 UTC
 <!--END_SECTION:waka-->
