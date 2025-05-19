@@ -62,8 +62,6 @@ const evan = {
 
 > 📦 371.2 kB Used in GitHub's Storage 
  > 
-> 🏆 187 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 39 Public Repositories 
@@ -120,5 +118,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hyc121110/hyc121110/master/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2025 02:08:02 UTC
+ Last Updated on 19/05/2025 02:06:57 UTC
 <!--END_SECTION:waka-->
