@@ -52,7 +52,7 @@ const evan = {
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -61,6 +61,8 @@ const evan = {
 **🐱 My GitHub Data** 
 
 > 📦 312.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 675 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -95,14 +97,14 @@ Sunday                   321 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-TypeScript               5 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
-JSON                     4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-JavaScript               3 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Python                   3 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Other                    2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+TypeScript               3 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+JavaScript               3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Other                    3 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+JSON                     2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Python                   2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 5 mins       █████████████████████████   100.00 % 
+VS Code                  21 hrs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -122,5 +124,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hyc121110/hyc121110/master/assets/bar_graph.png)
 
 
- Last Updated on 12/07/2025 02:12:15 UTC
+ Last Updated on 13/07/2025 02:27:03 UTC
 <!--END_SECTION:waka-->
