@@ -52,9 +52,7 @@ const evan = {
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-249%20hrs%2058%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
@@ -70,39 +68,6 @@ const evan = {
  > 
 > 🔑 21 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                558 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-🌆 Daytime                1307 commits        ██████████░░░░░░░░░░░░░░░   41.99 % 
-🌃 Evening                963 commits         ████████░░░░░░░░░░░░░░░░░   30.93 % 
-🌙 Night                  285 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   466 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Tuesday                  496 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-Wednesday                522 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Thursday                 431 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Friday                   415 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Saturday                 425 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Sunday                   358 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Toronto
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -120,5 +85,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hyc121110/hyc121110/master/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2025 01:48:20 UTC
+ Last Updated on 28/09/2025 02:02:45 UTC
 <!--END_SECTION:waka-->
