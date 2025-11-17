@@ -52,6 +52,8 @@ const evan = {
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-326%20hrs%2012%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
@@ -95,12 +97,11 @@ Sunday                   358 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Markdown                 1 hr 24 mins        ██████████████░░░░░░░░░░░   57.67 % 
-Swift                    46 mins             ████████░░░░░░░░░░░░░░░░░   31.74 % 
-XML                      15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Swift                    12 mins             █████████████████████████   98.16 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 26 mins       █████████████████████████   100.00 % 
+VS Code                  12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -120,5 +121,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hyc121110/hyc121110/master/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2025 02:07:53 UTC
+ Last Updated on 17/11/2025 02:03:11 UTC
 <!--END_SECTION:waka-->
