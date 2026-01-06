@@ -52,15 +52,17 @@ const evan = {
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-369%20hrs%2026%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.07%20million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.03%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 324.1 kB Used in GitHub's Storage 
+> 📦 325.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2026
+> 🏆 3 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,6 +70,43 @@ const evan = {
  > 
 > 🔑 24 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                635 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+🌆 Daytime                1520 commits        ██████████░░░░░░░░░░░░░░░   41.91 % 
+🌃 Evening                1178 commits        ████████░░░░░░░░░░░░░░░░░   32.48 % 
+🌙 Night                  294 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   573 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Tuesday                  532 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Wednesday                560 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Thursday                 494 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Friday                   478 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Saturday                 496 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Sunday                   494 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Toronto
+
+💬 Programming Languages: 
+Swift                    9 hrs 3 mins        ████████████████████░░░░░   78.29 % 
+Other                    2 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+Python                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🔥 Editors: 
+VS Code                  11 hrs 33 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -85,5 +124,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hyc121110/hyc121110/master/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2026 02:29:56 UTC
+ Last Updated on 06/01/2026 02:12:28 UTC
 <!--END_SECTION:waka-->
