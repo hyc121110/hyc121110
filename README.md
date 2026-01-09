@@ -52,7 +52,7 @@ const evan = {
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-370%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-371%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -97,13 +97,14 @@ Sunday                   496 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Swift                    7 hrs 18 mins       ███████████████████████░░   90.39 % 
-Other                    44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Swift                    5 hrs 5 mins        █████████████████████░░░░   83.85 % 
+Other                    44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 5 mins        █████████████████████████   100.00 % 
+VS Code                  6 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -123,5 +124,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hyc121110/hyc121110/master/assets/bar_graph.png)
 
 
- Last Updated on 08/01/2026 02:12:03 UTC
+ Last Updated on 09/01/2026 02:13:39 UTC
 <!--END_SECTION:waka-->
