@@ -52,7 +52,9 @@ const evan = {
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-505%20hrs%209%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.37%20million%20lines%20of%20code-blue?style=flat)
 
@@ -68,6 +70,39 @@ const evan = {
  > 
 > 🔑 24 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1461 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+🌆 Daytime                4349 commits        ██████████░░░░░░░░░░░░░░░   40.63 % 
+🌃 Evening                4125 commits        ██████████░░░░░░░░░░░░░░░   38.53 % 
+🌙 Night                  770 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   1585 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Tuesday                  1472 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Wednesday                1708 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Thursday                 1619 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Friday                   1399 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+Saturday                 1268 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Sunday                   1654 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Toronto
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -85,5 +120,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hyc121110/hyc121110/master/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2026 04:19:24 UTC
+ Last Updated on 30/05/2026 04:04:37 UTC
 <!--END_SECTION:waka-->
