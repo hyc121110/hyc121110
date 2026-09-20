@@ -52,9 +52,9 @@ const evan = {
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-541%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-541%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-80%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-80%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -99,16 +99,34 @@ Sunday                   2659 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   7 mins              ████████████████████░░░░░   80.09 % 
+Other                    1 min               █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  7 mins              ████████████████████░░░░░   80.09 % 
+Claude Code              1 min               █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 min (19.91%)
+
+✍️ 0 lines written by AI, 433 lines written by hand (0.0% AI-written)
+
+🔤 11,119 Input Tokens, 343 Output Tokens
+
+💵 $0.07 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 3 AI Prompts
+
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 3,794 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -128,5 +146,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hyc121110/hyc121110/master/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 04:16:11 UTC
+ Last Updated on 20/09/2026 04:35:06 UTC
 <!--END_SECTION:waka-->
